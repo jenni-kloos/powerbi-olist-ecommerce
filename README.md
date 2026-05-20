@@ -57,7 +57,7 @@ Calendar (custom) ─────────┘        ├──► order_items
 
 A dedicated `_DAX_Measures` table centralises all measures. A `For Switcher` helper table powers the dynamic metric switcher via field parameters.
 
-> Full schema diagram: [`docs/data-model.png`](data-model.png)
+> Full schema diagram: [`data-model.png`](data-model.png)
 
 ---
 
