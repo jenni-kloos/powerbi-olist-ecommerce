@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Windows
+*.lnk
+
+# Temp / log files
+*.tmp
+*.log
+*.bak
+
+# Raw data files (large CSVs — use Kaggle link instead)
+*.csv
+*.xlsx
+*.zip
+
+# Power BI cache
+*.pbix.bak
+.powerbidesktop/
